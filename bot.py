@@ -1,4 +1,4 @@
-from transformers import AutoModelForSeq2SeqLM, AutoTokenizer, GenerationConfig, TrainingArguments, Trainer
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer #, GenerationConfig, TrainingArguments, Trainer
 import torch
 import bio
 
@@ -14,14 +14,14 @@ tokenizer = AutoTokenizer.from_pretrained(model_name)
 print("SETTING MODEL TO CUDA...")
 original_model.to(device)
 # Example text
-question = "What are all the companies where I worked?"
+question = "Have you passed an internship?"
 prompt = f"""
 
-        My Bio:
+        Your Bio:
         
-        {bio.MyBioText}
+        {bio.bio}
         
-        Based on my bio answer the question:
+        Based on your bio answer the question:
         
         {question}
         
