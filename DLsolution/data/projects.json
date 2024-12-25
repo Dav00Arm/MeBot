@@ -1,0 +1,49 @@
+{
+    "Kaggle Digit Recognition": {
+        "Project": ["https://github.com/Dav00Arm/kaggle_digit_recognition"],
+        "ReadMe": ["https://github.com/Dav00Arm/kaggle_digit_recognition/blob/main/README.md"]
+    },
+    "Kaggle House Price Prediction": {
+        "Project": ["https://github.com/Dav00Arm/kaggle_house_price_prediction"],
+        "ReadMe": ["https://github.com/Dav00Arm/kaggle_house_price_prediction/blob/main/README.md"]
+    },
+    "Population Prediction": {
+        "Project": ["https://github.com/Dav00Arm/Population_prediction"],
+        "ReadMe": ["https://github.com/Dav00Arm/Population_prediction/blob/main/README.md"]
+    },
+    "Shell in C": {
+        "Project": ["https://github.com/Dav00Arm/Shell_in_C/tree/main"]
+    },
+    "Improved OpenCV Seamless Cloning": {
+        "Project": ["https://github.com/Dav00Arm/Improved-Opencv-Seamless-Cloning"],
+        "ReadMe": ["https://github.com/Dav00Arm/Improved-Opencv-Seamless-Cloning/blob/main/README.md"]
+    },
+    "Change Detection": {
+        "Project": ["https://github.com/Dav00Arm/Change_Detection_Post"],
+        "ReadMe": ["https://github.com/Dav00Arm/Change_Detection_Post/blob/main/README.md"]
+    },
+    "Parking Spot Occupancy": {
+        "Project": ["https://github.com/Dav00Arm/Parking-spot-occupancy"],
+        "ReadMe": ["https://github.com/Dav00Arm/Parking-spot-occupancy/blob/main/README.md"]
+    },
+    "Vehicle Counting": {
+        "Project": ["https://github.com/Dav00Arm/Vehicle-Counting-Demo"],
+        "ReadMe": ["https://github.com/Dav00Arm/Vehicle-Counting-Demo/blob/main/README.md"]
+    },
+    "Face ID": {
+        "Project": ["https://github.com/Dav00Arm/Face-ID"],
+        "ReadMe": ["https://github.com/Dav00Arm/Face-ID/blob/main/README.md"]
+    },
+    "Automated License Plate Recognition": {
+        "Project": ["https://github.com/Dav00Arm/ALPR_NANO", "https://github.com/Dav00Arm/ALPR-Demo"],
+        "ReadMe": ["https://github.com/Dav00Arm/ALPR_NANO/blob/main/README.md", "https://github.com/Dav00Arm/ALPR-Demo/blob/main/README.md"]
+    },
+    "Sign Language Recognition": {
+        "Project": ["https://github.com/Dav00Arm/SignLanguageRecognition"],
+        "ReadMe": ["https://github.com/Dav00Arm/SignLanguageRecognition/blob/main/README.md"]
+    },
+    "MeBot": {
+        "Project": ["https://github.com/Dav00Arm/MeBot"],
+        "ReadMe": ["https://github.com/Dav00Arm/MeBot/blob/main/README.md"]
+    }
+}
