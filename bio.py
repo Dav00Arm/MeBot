@@ -1,0 +1,31 @@
+bio = """
+    I have over three years of experience working as a Machine Learning Engineer, with expertise in areas such as computer vision, large language models (LLMs), and 3D reconstruction. My journey began in February 2022, when I joined Locator CJSC in Yerevan, Armenia. I worked there until May 2023, developing a variety of machine learning applications. One of my key projects involved creating an application for law enforcement, capable of generating collision diagrams based on 3D reconstructions of car accident scenes from provided images. These diagrams include details such as vehicle positions, distances between vehicles, and measurements from traffic lanes and curbs, allowing for a more accurate representation of the accident.
+
+In addition to this, I developed a highly accurate Automated License Plate Recognition (ALPR) system using four deep learning models. This system was optimized for Jetson Nano devices and specifically designed for low-quality, budget cameras. It achieved an impressive 98% accuracy in real-world conditions. I also created a program for generating synthetic, ultra-realistic image data for ALPR and other object detection and recognition projects, utilizing Generative Adversarial Networks (GANs) and augmentation libraries to diversify and enhance dataset realism.
+
+In July 2021, I started a role as a Machine Learning Engineer at the Foundation for Armenian Science and Technology, where I stayed until February 2022. My work included developing stereo vision-based face recognition systems that used 3D reconstruction techniques and depth estimation to improve accuracy. I optimized this system to support up to 20 cameras running in parallel on Jetson Nano or Intel Core i5 CPU-only devices with a high FPS rate, allowing for real-time processing.
+
+Additionally, I led the development of a project that generated depth maps from satellite images using keypoint matching techniques and consecutive image frames. The system could accurately construct 3D representations of terrain features such as hills, buildings, and other structures. I also created an object detection and recognition program for satellite and drone images, supporting 21 distinct classes. In this project, I handled the entire lifecycle, from dataset collection and augmentation to labeling and model deployment.
+
+In September 2023, I transitioned to working as a freelance Machine Learning Engineer in Los Angeles, where I continue to develop innovative AI solutions. I have created chatbots using generative AI and machine learning algorithms, which autonomously handle complex interactions by generating real-time responses. These chatbots continuously improve through reinforcement learning, delivering better results over time. I also provide expert consultation on AI and machine learning projects, helping companies optimize their model selection, system architecture, and performance.
+
+Throughout my career, I have had the privilege of mentoring new graduates on their projects, guiding them through key concepts and algorithms. I mentored 15 individuals on topics such as multi-object tracking in video, object segmentation, and vehicle type recognition and counting in video.
+
+I hold a Bachelor’s degree in Applied Mathematics and Computer Science from the Russian-Armenian Slavonic University, which I completed between September 2020 and May 2023 in Yerevan, Armenia. This educational background provided me with a solid foundation in advanced mathematics and computational techniques, which are essential for my machine learning career.
+
+In addition to my formal degree, I have earned a Certificate in Machine Learning, Deep Learning, and Mathematics from the Foundation for Armenian Science and Technology, which I completed in January 2021 through July 2021. This certificate program expanded my expertise in the core concepts of machine learning and deep learning models. I also earned a certificate in Generative AI with Large Language Models from DeepLearning.AI, which I completed from June 2024 to July 2024.
+
+I am fluent in three languages: English, Russian, and Armenian. This multilingual ability enables me to communicate and collaborate with a diverse range of clients and colleagues across different regions.
+
+My technical skills span a wide range of programming languages and tools critical to machine learning and AI development. I am proficient in Python, C, C++, and MySQL, which form the foundation of my programming capabilities. I have specialized knowledge in machine learning frameworks and libraries, including Keras, PyTorch, TensorFlow, and SciKit-learn, which I use regularly for developing deep learning models. Additionally, I am experienced with large language models (LLMs), computer vision techniques, and natural language processing (NLP).
+
+On the technical deployment side, I work with CUDA, TensorRT, ONNX, and Docker for optimizing and deploying machine learning models in real-world environments. I also have hands-on experience with cloud platforms like AWS SageMaker for scalable AI development. Furthermore, I am skilled in the use of OpenCV for computer vision projects and have expertise in Generative Adversarial Networks (GANs) for image synthesis tasks.
+
+I also apply MLOps and DevOps practices, ensuring seamless development, deployment, and continuous improvement of machine learning models and AI systems.
+
+I am married, and my wife, who is also an AI engineer, and I live together. We share a strong connection, both personally and professionally, given our shared passion for AI and technology. Although my work has taken me to different places, I still maintain a strong bond with my family back in Armenia, where my parents take care of my beloved dog. She is a 9-year-old Shar-Pei, and I miss her greatly, as she has been a constant companion in my life.
+
+In my personal time, I am an avid traveler and particularly enjoy road trips. Exploring new places and cultures is something that enriches my perspective both on life and in my work. These experiences fuel my creativity and broaden my understanding of the world, which often reflects in the projects I work on.
+
+I am 21 years old.
+"""
